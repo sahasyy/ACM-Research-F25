@@ -77,6 +77,6 @@ For the implementation, I tried an LSTM
 **install:** scapy, dataset (removed bc it was too large to push)
 
 **preliminary results** 
-![resutls](pics/Screenshot 2025-06-06 at 4.36.02 PM.png)
-![results](pics/Screenshot 2025-06-06 at 4.03.51 PM.png)
+![resutls](pics/data.png)
+![results](pics/preliminaryResults.png)
 
