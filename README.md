@@ -6,14 +6,43 @@ This repository contains an implementation of the model proposed in the paper:
 **"Early Detection of Network Attacks Using Deep Learning"**  
 📄 [arXiv:2201.11628](https://arxiv.org/pdf/2201.11628)
 
-The paper proposes a novel deep learning-based Intrusion Detection System (IDS) capable of **detecting attacks early**, before they cause significant system damage. The system analyzes sequences of network packets using a compact and efficient neural network architecture and introduces a novel evaluation metric called **earliness** to assess how quickly an attack is detected.
+The paper proposes a novel deep learning-based Intrusion Detection System (IDS) designed to **detect attacks early**, before they can inflict significant system damage. Unlike traditional IDS models that rely on engineered features, this system processes **raw network packet data** directly—analyzing sequences of packets with a compact and efficient neural network. It also introduces a new evaluation metric called **earliness** to quantify how quickly an attack is identified in its progression.
 
 ---
 
-## 🧠 Model Architecture
+## 🎯 Motivation
+
+Traditional Intrusion Detection Systems (IDS) often detect cyberattacks **too late**, after damage has already been done. Most approaches prioritize accuracy over **detection speed**, which is a critical flaw in time-sensitive environments. This paper targets that gap by introducing a deep learning model optimized for **early attack detection**—identifying threats **before** they escalate.
+
+---
+
+## 🧠 Novelty and Contributions
+
+- ⚡ **Early Detection Objective**  
+  Focuses explicitly on detecting attacks **as early as possible**, rather than simply classifying them correctly after full execution.
+
+- 📶 **Temporal Packet Sequence Modeling**  
+  Instead of relying on individual packets or static features, the model analyzes **sequences of packets** to capture evolving attack behaviors.
+
+- ⏱️ **New Metric: Earliness**  
+  Introduces a novel evaluation metric called **earliness**, which measures how far into the attack sequence detection occurs—highlighting timeliness, not just correctness.
+
+- 🧩 **Lightweight and Deployable Architecture**  
+  Implements a **compact neural network** designed to balance detection power with computational efficiency, making it suitable for real-world IDS deployment.
+
+---
+
+## 📈 Impact
+
+This approach lays the groundwork for **real-time, proactive intrusion detection**, reducing potential system damage. It also reframes how IDS effectiveness is measured, placing emphasis on **when** detection happens—not just **if** it does.
+
+---
+
+## 🧠 Model Architecture ##
 
 The paper introduces a lightweight **1D Convolutional Neural Network (CNN)** architecture tailored for analyzing raw packet-based network traffic.
 For the implementation, I tried an LSTM
+
 ---
 
 ## 📊 Dataset
