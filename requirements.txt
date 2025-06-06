@@ -1,0 +1,8 @@
+torch
+transformers
+ipywidgets
+accelerate
+sentencepiece
+llama-stack
+protobuf
+hf_xet
