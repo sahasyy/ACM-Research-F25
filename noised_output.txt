@@ -1,0 +1,464 @@
+Step 000 (t=0.00, move_chance=0.00): KING RICHARD II:
+Shaw love to
+be some obe to take Our my called
+My art that us his vetracter:
+Foatesswer, my fears's wizner heavens, to that I commilend;
+Whou grive, sendminilationt, to by Santend none:
+Will just, lesing that this me;
+But you up; ands hew you love.
+In Boyieter togently.
+Who like agaion,---on her piings to they suil The shire
+And Letener; thus prayenter fird so;
+Ange to shame is all on, that Prive my of.
+
+HENRY BOLINGS:
+You ards becond and to die courtear teyoury to-lown thee.
+Or no to Pommmany.
+You come, my master and seemen.
+
+NORFORD:
+Yortand whom the head not us. Is, will confessy.
+Which might. 
+CLAMERENCE:
+Kings.
+
+LACHIPSABELLA:
+My thence?
+
+LRUCETESBY:
+Sir, times the hastle fetch as nother's move
+Tunness, no duket news our hourse
+Hath with which uncestry To with unly Fladdess well not
+To yourselfices,--
+
+THOMINIUS:
+Come in now thity
+sevence of time the shower e subming:
+Intande whose no crave some Ellows behilous do Our his bace watch the
+ought in fort;
+you wellse where and those. all, If
+twoun as humber that I would not
+take all notay:
+And, and men, mest thinks so me worting.
+
+GREMOO:
+O, much a would, chilly brow
+ANDy wish I have a canies doth of the ands
+In tombelame, to libeen thing brothn they have
+eaun I die; they thou for Hences too lust;
+As there'ere to entreman the vown;
+Mad there's hearths, all this cappre.
+
+Prived Guntle:
+My lick the beguts
+with vonburt Rity this noble else not.
+
+MENENIUS:
+How may's frieng, delet!
+How scove you,
+But wouldly toese them since will,
+And,-mark strevas;
+Richand of a-lates corby to me
+been where fullow rish armbreath,
+That is shame, are path'd that to this macker rither arms,
+That I was that becomfort, themoraster no, townes.
+
+First Rernough:
+But whell, good mady,
+I cort, thou with amonge,
+To late she us. Which with as
+Talk'd our they see honerower life?
+
+COMIOLUS:
+You do the all; whom now.
+
+CORIOLANUS:
+May, many and, and, Joancety.
+
+POMPEY:
+Whis Parparlieven:
+Not shown's fortunds, such I here henwderry
+Marr
+Step 001 (t=0.10, move_chance=0.10): KING RICHARD II:
+Shaw love to
+be some obe to take Our my called
+My art[MASK] us his vetract[MASK]:
+Foatesswer, my fears's wizner heavens, to[MASK] I comm[MASK]end;
+Whou grive, sendminilationt, to[MASK] Santend none[MASK][MASK]Will just, lesing that this[MASK];
+[MASK] you[MASK]; ands he[MASK] you love.
+In Boyieter togently.
+[MASK] like ag[MASK]ion,---on her piings to they suil The shire
+And Let[MASK]; thus pray[MASK] fird so;
+Ange to shame is all on, that Prive my of.
+
+HENRY BOLINGS[MASK]
+You ar[MASK] becond and to die courtear teyoury to-lown thee.
+Or no[MASK] Pommmany.
+You come, my master and seemen.
+
+NORFORD:
+Yortand whom the head[MASK] us. Is, will confessy.[MASK]Which might. [MASK]CLAMERENCE:[MASK]Kings[MASK]
+
+LACHIPSAB[MASK]A:
+My thence?
+
+LRUCETES[MASK][MASK]
+Sir, times the hastle fetch as[MASK]her's move[MASK][MASK]unness, no duket news our[MASK]se
+H[MASK][MASK] which unc[MASK]ry To with unly[MASK]addess well not
+To yourselfices,--
+
+THOMINIUS:
+Come in now thity
+sevence of time the shower e subming:
+Intande whose no crave some Ellows behilous[MASK][MASK] his[MASK]ace watch the
+ought in fort;
+you wellse where and those. all, If
+twoun as humber that I[MASK][MASK]
+take all notay:
+And, and men, mest thinks so me worting.
+
+GREMOO:
+O, much[MASK] would,[MASK] brow
+ANDy wish I have a can[MASK] doth of the ands
+In tombelame, to[MASK]een thing brothn they have
+eaun I die; they thou for Hences too[MASK];
+As there'ere[MASK] ent[MASK]man the v[MASK];
+Mad there[MASK] hearths, all this cappre.
+
+Prived Guntle:
+My lick the beguts
+with vonburt R[MASK] this noble else not.
+
+MENENIUS:
+How may's frieng, delet!
+How scove you,
+But wouldly toese them since will,
+And,-mark strevas[MASK]
+[MASK]and of a-lates corby to me
+[MASK] where fullow rish armbreath,[MASK]That is shame, are[MASK]'d that to this macker rither arms,
+That I was that[MASK]omfort, themoraster no, townes.
+
+[MASK][MASK]ernough:
+[MASK] whell, good mady,
+I cort, thou with amonge,
+[MASK] late she us. Which with as[MASK]Talk'd our they see honerower life[MASK]
+[MASK]COMIOLUS:
+You do[MASK] all; whom now[MASK]
+
+CORIOLANUS:
+May, many[MASK], and,[MASK]anc[MASK].
+
+POMPEY:
+Whis Par[MASK]lieven[MASK]
+Not shown's fortunds, such I here henw[MASK]ry
+Marr
+Step 002 (t=0.20, move_chance=0.20): KING RICHARD II:
+Shaw love to[MASK]be[MASK] obe to take[MASK] my called
+My art[MASK] us[MASK] vetract[MASK]:
+Foatesswer, my fears[MASK] wizner heavens, to that[MASK] commilend;
+Whou grive, sendminilationt[MASK] to by Santend none:
+Will just,[MASK]ing that this[MASK];
+But you up; ands hew you[MASK].[MASK]In Boyieter togently.
+Who like agaion,[MASK]on her pi[MASK] to they suil The shire
+And Letener; thus[MASK]enter f[MASK] so;[MASK]An[MASK] to shame is all on, that Prive my of.
+
+HENRY[MASK][MASK]INGS:
+You[MASK][MASK][MASK]ond[MASK] to die courtear teyoury to-lown thee.
+[MASK][MASK][MASK] Pommmany.
+You come,[MASK] master and seemen.
+
+NORF[MASK][MASK]
+Y[MASK]and[MASK] the head not us. Is, will confessy[MASK][MASK]Which[MASK]. 
+CLAM[MASK]ENCE:
+Kings.
+
+LACH[MASK]ABELL[MASK][MASK]
+My thence?[MASK]
+LRUCET[MASK]BY:
+Sir,[MASK] the[MASK][MASK] fetch as[MASK]her's move
+T[MASK]ness, no duket news[MASK] hourse
+Hath with[MASK] uncestry To with un[MASK] Fladdess well not
+To yourself[MASK],--
+
+TH[MASK]INIUS:
+[MASK] in now th[MASK]
+seven[MASK] of time the shower e subming:
+Intande whose no[MASK] some Ellows[MASK]ilous[MASK] Our his b[MASK][MASK] the
+ought[MASK] fort;
+you wellse where and[MASK][MASK] all, If
+tw[MASK][MASK] hum[MASK][MASK] I would not
+take all not[MASK]:
+And, and men, mest thinks so me worting.
+
+GREM[MASK][MASK]
+O, much a would, chilly[MASK]
+ANDy wish I[MASK] a canies[MASK]oth of the ands
+In tombel[MASK], to libeen thing brothn[MASK] have
+[MASK]aun I die; they thou for H[MASK] too[MASK];
+As there'ere to entreman[MASK][MASK]own;[MASK]Mad there's[MASK]ths,[MASK] this capp[MASK].
+[MASK]Pri[MASK] Guntle:
+My lick the beguts
+with von[MASK]urt Rity this noble else not.
+[MASK]MEN[MASK][MASK]US:
+[MASK] may's frieng, delet[MASK]
+How scove you,
+[MASK] wouldly to[MASK][MASK] since will[MASK][MASK]And,-mark strevas;[MASK]Richand[MASK] a[MASK]lates corby to me
+been[MASK] fullow rish armbreath,
+That[MASK] shame, are path'd that to this macker rither arms,[MASK]That I was[MASK] becomfort,[MASK]oraster no, townes[MASK][MASK]
+First[MASK][MASK]ough:
+But whell, good mady,
+I[MASK],[MASK] with amonge,
+[MASK][MASK][MASK] us. Which[MASK] as
+Talk'd our they see honerower life?
+
+COMIOLUS:
+You do the[MASK]; whom now[MASK]
+[MASK]CORIOLANUS:
+May[MASK] many and, and[MASK] Joanc[MASK].
+
+P[MASK]PEY:
+Wh[MASK] Parparlie[MASK]:
+Not shown's fortunds, such I[MASK] henwder[MASK]
+Marr
+Step 003 (t=0.30, move_chance=0.30): KING R[MASK][MASK] II:
+Shaw love to
+[MASK][MASK] obe[MASK] take[MASK] my called
+My[MASK][MASK] us[MASK] vetracter:[MASK]Foatesswer,[MASK][MASK]'s wizner heavens, to that[MASK] commilend[MASK]
+Whou gri[MASK][MASK] send[MASK]ilationt, to[MASK][MASK]end none:[MASK]Will just, lesing that[MASK][MASK];[MASK][MASK] you[MASK][MASK] ands[MASK]w you love[MASK]
+In Boyieter[MASK]gently[MASK]
+[MASK] like ag[MASK]ion,---on her piings to they[MASK]il The[MASK][MASK][MASK]And Letener[MASK] thus prayenter[MASK][MASK] so;
+Ange to shame is all on, that[MASK]ve my[MASK].[MASK]
+HENRY BOLINGS:
+[MASK] ar[MASK] bec[MASK][MASK][MASK][MASK][MASK]ear[MASK][MASK]y to[MASK]lown thee.
+Or no to Pommmany.[MASK]You come,[MASK] master and seemen.[MASK]
+[MASK]FORD:[MASK]Yortand whom the[MASK] not us. Is, will[MASK]y.
+[MASK] might.[MASK]
+CLAMER[MASK]:
+Kings.[MASK]
+[MASK][MASK]IPS[MASK]ELL[MASK][MASK]
+My[MASK][MASK]
+
+[MASK][MASK]ETES[MASK]:
+Sir, times[MASK] hastle fetch[MASK] nother[MASK][MASK][MASK][MASK]un[MASK][MASK][MASK] duk[MASK] news[MASK][MASK]se
+[MASK]ath with which uncestry To with[MASK]ly Fladd[MASK][MASK] not
+[MASK] yourselfices[MASK]--
+
+[MASK][MASK]INIUS:[MASK][MASK] in[MASK] thity
+sevence[MASK] time the shower e sub[MASK]:
+Int[MASK] whose no crave some Ellows behilous do Our his[MASK]ace watch[MASK]
+[MASK] in[MASK];
+you[MASK][MASK] where and those[MASK] all,[MASK]
+[MASK][MASK] as humber[MASK] I would not[MASK]take all[MASK]ay:
+And[MASK] and men, m[MASK] thinks[MASK] me worting[MASK]
+[MASK][MASK]MOO[MASK]
+O, much a[MASK], chilly[MASK]
+[MASK]y wish[MASK] have[MASK][MASK]ies[MASK]oth of the ands[MASK][MASK] tomb[MASK]ame[MASK][MASK] libeen thing[MASK]n they[MASK][MASK]e[MASK] I[MASK]; they thou for[MASK]ences too lust;
+[MASK] there'ere to[MASK]re[MASK] the vown[MASK]
+[MASK][MASK]'s[MASK]ths[MASK] all this cappre.[MASK]
+Prived G[MASK]le:
+My lick the beguts
+with vonb[MASK] R[MASK] this noble else[MASK].
+
+MENENI[MASK]:
+How may[MASK] frieng, delet[MASK]
+How sc[MASK][MASK],
+[MASK][MASK]ly toese[MASK] since will,
+And,-mark[MASK]vas;
+Richand[MASK] a-[MASK]ates cor[MASK] to me
+been where fullow[MASK]ish armbreath,
+That[MASK][MASK][MASK][MASK] path'd that to this[MASK]acker r[MASK] arms[MASK]
+[MASK] I was that becomfort, them[MASK]aster no, townes[MASK][MASK]
+First[MASK]ernough:[MASK]But[MASK]ll[MASK] good m[MASK],
+[MASK] cort, thou with amonge,
+[MASK] late she us.[MASK][MASK][MASK]
+Talk[MASK] our[MASK][MASK] honerower life?
+[MASK]COMIOLUS[MASK]
+You[MASK] the[MASK]; whom now[MASK]
+[MASK]CORIOLAN[MASK][MASK]
+[MASK][MASK] many and, and[MASK] Jo[MASK]ety.
+
+POMPE[MASK]:
+Whis Parparlieven:[MASK]Not[MASK][MASK][MASK][MASK]s[MASK] such I here henwderry
+Marr
+Step 004 (t=0.40, move_chance=0.40): [MASK] R[MASK][MASK] II:[MASK]Sh[MASK] love[MASK]
+be some obe to take Our[MASK][MASK]
+My[MASK] that us his vet[MASK]er:
+[MASK]oat[MASK]wer, my[MASK]'s w[MASK][MASK] heavens, to[MASK][MASK] comm[MASK]end;
+Wh[MASK] grive[MASK][MASK][MASK]ilation[MASK][MASK][MASK][MASK] Santend[MASK][MASK]
+[MASK] just, lesing[MASK] this[MASK];[MASK][MASK] you up[MASK] and[MASK][MASK]w you love.
+[MASK][MASK]ieter[MASK]gently.[MASK]Who like ag[MASK]ion,[MASK][MASK][MASK] pi[MASK] to they[MASK][MASK][MASK][MASK]ire[MASK][MASK][MASK]ener[MASK] thus prayenter fird[MASK][MASK]
+Ange to shame[MASK] all[MASK],[MASK] Prive[MASK][MASK][MASK][MASK]
+HENRY B[MASK][MASK]:
+You[MASK][MASK] becond and[MASK][MASK][MASK]ear te[MASK][MASK] to[MASK]lown thee[MASK][MASK]Or no to[MASK]omm[MASK].
+You come,[MASK][MASK][MASK] seemen[MASK]
+
+NOR[MASK][MASK][MASK][MASK]Yort[MASK][MASK][MASK] head[MASK][MASK].[MASK][MASK][MASK][MASK]y.
+[MASK] might[MASK] 
+CLAMERENCE:
+[MASK][MASK][MASK][MASK]L[MASK][MASK][MASK]ELLA[MASK]
+My[MASK][MASK][MASK]
+LRUCETES[MASK]:
+[MASK], times[MASK] hastle fetch as[MASK][MASK][MASK] move[MASK][MASK][MASK]ness, no d[MASK]et news our[MASK]se[MASK]H[MASK] with which uncestry[MASK] with[MASK]ly[MASK]addess[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+
+TH[MASK]INI[MASK][MASK][MASK]Come in[MASK][MASK]ity[MASK]sevence of[MASK][MASK] shower[MASK] sub[MASK]:
+Intande[MASK] no crave some Ell[MASK][MASK]ilous do[MASK] his[MASK]ace watch the
+[MASK][MASK] fort;
+[MASK] wellse where[MASK][MASK]. all, If[MASK]tw[MASK][MASK] hum[MASK] that[MASK][MASK][MASK][MASK]take all[MASK]ay:
+[MASK],[MASK][MASK][MASK] mest thinks[MASK][MASK][MASK]orting[MASK]
+
+[MASK][MASK]OO[MASK]
+O, much a[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] canies[MASK][MASK] of the ands
+[MASK] tombelame[MASK][MASK] lib[MASK] thing[MASK][MASK] they[MASK]
+e[MASK] I[MASK];[MASK] thou for[MASK]ences too[MASK];[MASK]As[MASK][MASK]ere[MASK][MASK][MASK][MASK][MASK] vown;
+Mad there's hearths[MASK] all this capp[MASK][MASK][MASK]
+Pri[MASK][MASK][MASK]le:
+[MASK] lick the beguts
+with von[MASK]urt R[MASK] this noble else[MASK][MASK]
+
+[MASK][MASK]IUS:[MASK]How[MASK]'s fri[MASK][MASK] delet!
+How sc[MASK] you[MASK][MASK]But[MASK][MASK][MASK]ese them[MASK] will[MASK][MASK]And[MASK]mark[MASK]vas[MASK][MASK][MASK][MASK] of a-[MASK][MASK] corby[MASK] me
+been where fullow[MASK][MASK][MASK]mbreath,
+That is shame[MASK][MASK] path'd that[MASK] this m[MASK][MASK]ither arms,
+That[MASK][MASK] that becom[MASK][MASK] themor[MASK] no[MASK][MASK]es[MASK][MASK]
+First[MASK]ernough:[MASK][MASK] whe[MASK],[MASK][MASK][MASK][MASK]
+[MASK][MASK], thou with amonge,
+To late[MASK] us[MASK][MASK] with[MASK][MASK]Talk'd our they see[MASK][MASK][MASK][MASK]?
+[MASK]COMIOLUS:[MASK][MASK] do[MASK] all; whom now.
+
+[MASK][MASK]OL[MASK]US[MASK]
+May,[MASK] and,[MASK][MASK] Joancety[MASK][MASK]
+[MASK]OMPEY:[MASK]Wh[MASK][MASK]parlie[MASK]:[MASK][MASK] shown's fortunds,[MASK][MASK] here hen[MASK][MASK][MASK]
+[MASK]arr
+Step 005 (t=0.50, move_chance=0.50): [MASK] RICH[MASK] II:
+Sh[MASK] love[MASK]
+be some[MASK][MASK][MASK] Our my called
+[MASK] art[MASK][MASK] his vet[MASK][MASK][MASK][MASK][MASK]oatess[MASK],[MASK] fears[MASK] wizner[MASK][MASK] to that[MASK][MASK]il[MASK][MASK]
+[MASK]ou gri[MASK], send[MASK]ilationt,[MASK] by Sant[MASK][MASK]:[MASK][MASK][MASK][MASK][MASK][MASK] that this me;
+[MASK][MASK][MASK];[MASK]s[MASK][MASK][MASK] love.[MASK][MASK] Boyiet[MASK][MASK][MASK].[MASK][MASK] like[MASK][MASK]ion[MASK][MASK][MASK][MASK][MASK]ings[MASK][MASK][MASK][MASK] The[MASK]ire[MASK][MASK] Let[MASK];[MASK][MASK][MASK] fird[MASK];[MASK]Ange[MASK] shame is all on,[MASK] Pri[MASK][MASK] of.
+
+[MASK]ENRY[MASK][MASK]INGS:
+You ar[MASK] becond[MASK] to[MASK][MASK]ear[MASK][MASK]y to-[MASK][MASK][MASK][MASK][MASK]Or[MASK][MASK] Pommmany.[MASK]You come, my master[MASK] seemen.
+[MASK][MASK]F[MASK]:
+Y[MASK]and whom the[MASK][MASK] us. Is, will[MASK]y[MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]L[MASK]IPS[MASK]ELL[MASK][MASK]
+My thence[MASK]
+
+[MASK][MASK]ETESBY:[MASK][MASK][MASK][MASK][MASK][MASK][MASK] fetch as[MASK][MASK][MASK][MASK][MASK]T[MASK]ness, no[MASK]uket news our[MASK][MASK]
+Hath[MASK] which[MASK]estry To[MASK][MASK][MASK] Fl[MASK]ess well not
+To yourselfices[MASK]--
+
+[MASK][MASK][MASK]I[MASK]:[MASK]Come[MASK][MASK][MASK][MASK][MASK][MASK]ce of time the shower e[MASK]ming[MASK][MASK]Intande whose no[MASK] some[MASK][MASK] behilous do Our his[MASK]ace[MASK][MASK]
+[MASK][MASK] fort[MASK]
+[MASK] well[MASK][MASK] and[MASK].[MASK][MASK][MASK]
+twoun as[MASK]ber that[MASK] would not
+take all notay:
+And[MASK] and[MASK],[MASK][MASK] thinks[MASK] me[MASK]orting.
+
+GRE[MASK]OO:
+[MASK][MASK] much a would[MASK] chilly[MASK][MASK]ANDy[MASK][MASK][MASK] a[MASK][MASK][MASK]oth[MASK] the[MASK]s[MASK]In[MASK][MASK]ame,[MASK] lib[MASK][MASK] broth[MASK][MASK][MASK][MASK]e[MASK] I die[MASK][MASK] thou for[MASK]ences too[MASK];[MASK][MASK][MASK][MASK][MASK][MASK][MASK]reman[MASK] v[MASK][MASK][MASK]Mad[MASK]'s[MASK][MASK][MASK][MASK][MASK][MASK][MASK]re.
+
+Pri[MASK][MASK][MASK][MASK][MASK][MASK]My lick[MASK][MASK][MASK]
+[MASK][MASK]burt[MASK][MASK] this noble else[MASK].
+
+MENEN[MASK]US:[MASK][MASK] may[MASK] fri[MASK], delet!
+[MASK][MASK]ove you[MASK][MASK]But would[MASK] toese them[MASK] will[MASK][MASK]And[MASK][MASK] stre[MASK][MASK][MASK][MASK]and[MASK] a-lates[MASK][MASK] to[MASK]
+been where fullow rish[MASK]mbreath,[MASK]That is shame[MASK] are path[MASK] that[MASK] this m[MASK] r[MASK] arms,
+[MASK][MASK][MASK][MASK] becomfort,[MASK]oraster[MASK], town[MASK].
+
+[MASK] Rern[MASK][MASK][MASK][MASK] whe[MASK], good mady,[MASK][MASK] cort[MASK] thou with am[MASK],[MASK][MASK][MASK][MASK][MASK]. Which[MASK][MASK][MASK]Talk[MASK][MASK][MASK] see honer[MASK][MASK][MASK]
+
+COM[MASK][MASK]US[MASK]
+You do the all[MASK] whom[MASK][MASK][MASK]
+[MASK][MASK]OL[MASK][MASK]:
+May,[MASK] and[MASK][MASK][MASK][MASK]anc[MASK].[MASK][MASK]P[MASK][MASK]Y:
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK] fort[MASK][MASK][MASK] such[MASK] here[MASK]w[MASK][MASK][MASK]Marr
+Step 006 (t=0.60, move_chance=0.60): [MASK][MASK]ICHARD[MASK]:
+Sh[MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]My art[MASK][MASK] his vet[MASK][MASK]:
+[MASK][MASK][MASK][MASK], my[MASK][MASK][MASK][MASK]ner[MASK][MASK][MASK] that I[MASK][MASK][MASK][MASK][MASK][MASK]ou[MASK][MASK],[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]end none[MASK]
+Will[MASK],[MASK]ing[MASK] this[MASK];
+But you up;[MASK][MASK][MASK]w[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] togently[MASK][MASK]Who[MASK] ag[MASK][MASK],---[MASK] her pi[MASK] to[MASK][MASK][MASK][MASK] sh[MASK][MASK]And[MASK]ener[MASK][MASK][MASK][MASK] fird so[MASK][MASK]An[MASK][MASK] shame[MASK] all[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK]EN[MASK][MASK][MASK][MASK]:[MASK]You ards bec[MASK] and to die[MASK][MASK] te[MASK][MASK] to[MASK][MASK][MASK][MASK][MASK][MASK]Or[MASK] to P[MASK][MASK][MASK]
+You[MASK][MASK][MASK] master[MASK][MASK][MASK].[MASK]
+[MASK][MASK]ORD[MASK]
+Yort[MASK][MASK][MASK] head[MASK] us[MASK][MASK], will[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK]ENCE:
+[MASK][MASK][MASK][MASK][MASK]ACH[MASK][MASK][MASK]A:[MASK][MASK][MASK][MASK][MASK][MASK]LRUC[MASK][MASK][MASK][MASK]
+[MASK],[MASK] the[MASK]le fetch[MASK][MASK][MASK][MASK][MASK]
+Tunness[MASK] no[MASK][MASK][MASK][MASK][MASK] hour[MASK]
+[MASK][MASK][MASK][MASK] unc[MASK][MASK] To with un[MASK][MASK]addess well not[MASK]To[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]I[MASK]:[MASK][MASK] in[MASK][MASK][MASK][MASK]seven[MASK][MASK][MASK][MASK][MASK][MASK][MASK]ming:[MASK]Int[MASK][MASK] no[MASK] some[MASK][MASK] beh[MASK]ous[MASK][MASK][MASK] b[MASK] watch the[MASK][MASK] in fort;[MASK]you well[MASK][MASK][MASK] those[MASK][MASK][MASK] If[MASK][MASK][MASK] as humber that[MASK] would not[MASK]take[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]orting.
+
+[MASK]MOO[MASK]
+[MASK][MASK][MASK][MASK][MASK],[MASK] brow
+ANDy[MASK][MASK][MASK] a can[MASK][MASK]oth of the ands[MASK][MASK][MASK]elame, to[MASK][MASK] thing[MASK][MASK][MASK][MASK][MASK]eaun[MASK][MASK][MASK][MASK][MASK] for[MASK]ences too lust[MASK][MASK][MASK] there'[MASK][MASK][MASK][MASK]man[MASK] v[MASK][MASK]
+[MASK] there[MASK] hear[MASK][MASK][MASK] this[MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK]unt[MASK][MASK]
+My lick[MASK] beg[MASK][MASK][MASK] von[MASK][MASK] R[MASK] this noble else not.[MASK]
+MENENI[MASK]:[MASK]How[MASK]'s frieng, delet[MASK][MASK][MASK][MASK]ove[MASK][MASK]
+[MASK] wouldly[MASK][MASK][MASK] since will[MASK]
+[MASK][MASK]mark strevas[MASK]
+[MASK][MASK] of a[MASK]l[MASK] cor[MASK] to[MASK][MASK]been[MASK] full[MASK] r[MASK][MASK][MASK][MASK],[MASK]That is[MASK][MASK] are[MASK]'d[MASK] to this[MASK]acker[MASK]ither[MASK],[MASK][MASK][MASK] was[MASK][MASK][MASK][MASK], themor[MASK][MASK], townes[MASK]
+
+[MASK][MASK][MASK][MASK]:[MASK][MASK][MASK]ll, good m[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] amonge[MASK]
+[MASK][MASK] she[MASK][MASK][MASK] with[MASK]
+Talk'd our[MASK][MASK] hon[MASK][MASK][MASK]?[MASK][MASK][MASK][MASK][MASK][MASK]:
+[MASK] do[MASK][MASK][MASK] whom[MASK][MASK]
+[MASK]COR[MASK][MASK]ANUS:[MASK][MASK],[MASK][MASK][MASK] and,[MASK]ancety[MASK][MASK][MASK][MASK][MASK]PEY[MASK]
+Wh[MASK][MASK]parlie[MASK][MASK][MASK][MASK][MASK][MASK][MASK]unds, such[MASK] here[MASK][MASK][MASK]ry
+[MASK]arr
+Step 007 (t=0.70, move_chance=0.70): KING[MASK][MASK][MASK] II[MASK]
+Sh[MASK][MASK][MASK][MASK]be[MASK] obe to take[MASK] my[MASK][MASK]My[MASK] that[MASK][MASK] vet[MASK]er[MASK][MASK][MASK]oat[MASK][MASK][MASK][MASK][MASK]'s wizner[MASK],[MASK] that[MASK][MASK]il[MASK][MASK][MASK][MASK][MASK][MASK]ve[MASK] send[MASK][MASK]t[MASK][MASK][MASK][MASK][MASK] none[MASK][MASK][MASK] just[MASK][MASK][MASK] that[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]w[MASK][MASK][MASK][MASK][MASK] Boy[MASK][MASK][MASK][MASK][MASK][MASK][MASK] like[MASK][MASK][MASK][MASK][MASK]on[MASK] pi[MASK][MASK][MASK][MASK][MASK][MASK] shire[MASK][MASK][MASK][MASK];[MASK] prayenter[MASK]ird so[MASK][MASK]An[MASK] to[MASK][MASK][MASK][MASK][MASK][MASK] Prive my[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]:
+[MASK][MASK]ds bec[MASK][MASK] to[MASK] court[MASK][MASK][MASK]y[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] to Pomm[MASK].[MASK][MASK][MASK][MASK][MASK][MASK] and[MASK][MASK].[MASK]
+NOR[MASK][MASK]:
+Yortand[MASK][MASK][MASK] not us.[MASK][MASK][MASK][MASK][MASK][MASK]
+Which[MASK][MASK][MASK]
+CL[MASK][MASK][MASK][MASK][MASK][MASK].[MASK][MASK]L[MASK][MASK][MASK]ELL[MASK][MASK][MASK]My[MASK][MASK]
+[MASK]LR[MASK][MASK]ES[MASK]:
+[MASK],[MASK] the hast[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] no[MASK]uk[MASK][MASK] our hourse[MASK][MASK]ath[MASK][MASK][MASK][MASK][MASK][MASK] with[MASK][MASK] Fl[MASK][MASK] well[MASK]
+[MASK] yourself[MASK],[MASK][MASK][MASK]TH[MASK][MASK][MASK]US[MASK][MASK][MASK][MASK] now[MASK][MASK]
+[MASK]ce[MASK] time the shower[MASK][MASK][MASK][MASK][MASK]Int[MASK][MASK] no[MASK] some[MASK]ows[MASK]ilous[MASK] Our[MASK][MASK][MASK][MASK] the[MASK][MASK][MASK][MASK];
+[MASK][MASK]se[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]tw[MASK][MASK][MASK]ber[MASK] I[MASK][MASK][MASK][MASK] all[MASK][MASK]:[MASK][MASK][MASK] and[MASK][MASK] m[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]GREM[MASK][MASK][MASK][MASK][MASK] much[MASK] would,[MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK] a[MASK][MASK] d[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ame[MASK][MASK] libeen thing[MASK]n[MASK][MASK][MASK][MASK]aun[MASK] die;[MASK][MASK][MASK] Hences[MASK] lust[MASK]
+[MASK] there'[MASK][MASK][MASK]reman the[MASK][MASK][MASK]
+Mad[MASK]'s[MASK]ths[MASK][MASK][MASK] capp[MASK][MASK]
+
+[MASK][MASK][MASK]untle[MASK]
+[MASK][MASK] the beg[MASK][MASK][MASK] von[MASK][MASK] R[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]I[MASK][MASK][MASK][MASK] may's[MASK][MASK][MASK][MASK]!
+How[MASK]ove[MASK][MASK][MASK][MASK][MASK][MASK] toese them since[MASK][MASK]
+And,-mark[MASK][MASK][MASK][MASK][MASK]and of[MASK][MASK][MASK][MASK][MASK]by to[MASK][MASK][MASK] where[MASK][MASK] r[MASK][MASK][MASK][MASK],[MASK]That[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]acker[MASK]ither arms[MASK][MASK][MASK][MASK] was[MASK][MASK][MASK]fort, them[MASK][MASK][MASK][MASK] townes[MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] thou[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK] our[MASK] see[MASK]er[MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK]US[MASK][MASK][MASK][MASK][MASK] all;[MASK] now[MASK][MASK][MASK][MASK]IOLANUS:[MASK]May[MASK][MASK] and,[MASK][MASK][MASK]anc[MASK][MASK]
+[MASK][MASK]OM[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]lieven[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK], such[MASK][MASK][MASK]w[MASK]ry[MASK][MASK][MASK]
+Step 008 (t=0.80, move_chance=0.80): KING[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] take[MASK][MASK] called
+[MASK][MASK][MASK][MASK][MASK] vet[MASK][MASK][MASK][MASK]F[MASK]esswer[MASK][MASK][MASK]'s w[MASK][MASK][MASK][MASK][MASK] that[MASK][MASK]il[MASK];[MASK][MASK][MASK][MASK][MASK][MASK] send[MASK]ilation[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ing[MASK] this[MASK];[MASK][MASK][MASK][MASK][MASK][MASK][MASK] he[MASK][MASK] love[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] pi[MASK][MASK][MASK][MASK][MASK][MASK] sh[MASK]
+And[MASK]ener[MASK][MASK][MASK][MASK][MASK][MASK][MASK];[MASK][MASK]ge[MASK][MASK] is all[MASK][MASK][MASK][MASK]ve[MASK][MASK].[MASK][MASK][MASK][MASK]RY[MASK][MASK][MASK][MASK]
+[MASK] ar[MASK][MASK][MASK][MASK][MASK] die[MASK][MASK][MASK][MASK][MASK][MASK][MASK]l[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]many[MASK][MASK][MASK][MASK],[MASK][MASK] and[MASK][MASK].[MASK][MASK][MASK][MASK][MASK]:[MASK][MASK][MASK][MASK] whom[MASK][MASK][MASK][MASK][MASK][MASK][MASK] will[MASK][MASK][MASK][MASK]Which[MASK][MASK][MASK][MASK]CL[MASK][MASK][MASK][MASK]
+[MASK].
+[MASK][MASK][MASK][MASK][MASK]ELL[MASK][MASK]
+[MASK] thence[MASK][MASK][MASK][MASK]UC[MASK][MASK][MASK][MASK]
+Sir[MASK][MASK][MASK][MASK]le[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],[MASK][MASK][MASK]et[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ly[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ices,[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] of[MASK] the[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] whose no crave[MASK] Ell[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK] in[MASK][MASK][MASK][MASK] well[MASK] where[MASK][MASK][MASK] all[MASK][MASK][MASK][MASK][MASK] as[MASK]ber that[MASK][MASK][MASK][MASK]take[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] men[MASK][MASK][MASK][MASK][MASK] me[MASK][MASK].
+[MASK][MASK][MASK][MASK]:[MASK]O[MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK] a[MASK][MASK] doth[MASK] the[MASK]s[MASK][MASK][MASK][MASK][MASK][MASK][MASK] lib[MASK][MASK] broth[MASK][MASK][MASK][MASK]e[MASK][MASK][MASK][MASK][MASK] thou[MASK] Hences[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK];[MASK][MASK][MASK][MASK][MASK][MASK], all this[MASK][MASK][MASK][MASK]
+
+[MASK]ved[MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ity[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]I[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] since[MASK][MASK][MASK][MASK],-[MASK][MASK][MASK];[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] cor[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] arms[MASK]
+[MASK][MASK] was[MASK][MASK][MASK]fort[MASK][MASK][MASK][MASK] no[MASK][MASK][MASK].[MASK]
+[MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] cort[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] she[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] they[MASK][MASK][MASK][MASK][MASK]?[MASK][MASK]COMIOLUS[MASK][MASK][MASK] do[MASK][MASK][MASK][MASK] now[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],[MASK][MASK][MASK] and[MASK][MASK]anc[MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK]is Par[MASK]lie[MASK][MASK]
+Not[MASK][MASK][MASK][MASK][MASK], such I[MASK][MASK][MASK][MASK][MASK]
+M[MASK]
+Step 009 (t=0.90, move_chance=0.90): KING[MASK]ICHARD[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] take[MASK][MASK][MASK][MASK][MASK] art[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]F[MASK]ess[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] that[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],[MASK][MASK] Sant[MASK][MASK]:[MASK][MASK][MASK][MASK][MASK]ing[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]Who like[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]il[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] and[MASK][MASK] court[MASK][MASK][MASK][MASK][MASK]-l[MASK][MASK][MASK][MASK][MASK] no[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]:[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ACH[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]UC[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],[MASK][MASK][MASK][MASK][MASK][MASK] hour[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] time[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] in[MASK][MASK][MASK][MASK][MASK][MASK] where and[MASK][MASK] all[MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK] and[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK].[MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]ANDy[MASK][MASK][MASK][MASK][MASK][MASK][MASK]oth[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]een[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]Mad[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK].[MASK][MASK]Pri[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] else[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] delet[MASK][MASK][MASK] sc[MASK][MASK][MASK][MASK]But[MASK]ly[MASK][MASK] them[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]Rich[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] to[MASK][MASK][MASK][MASK] full[MASK] r[MASK][MASK][MASK][MASK],[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK] good[MASK][MASK][MASK][MASK]I[MASK][MASK][MASK][MASK][MASK]onge[MASK][MASK]To[MASK][MASK] us[MASK][MASK][MASK][MASK][MASK][MASK][MASK] our they[MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK]US[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK],[MASK][MASK][MASK][MASK],[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
+[MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]M[MASK]
+Step 010 (t=1.00, move_chance=1.00): [MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK][MASK]
