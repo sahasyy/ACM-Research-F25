@@ -1,6 +1,6 @@
 ![ACM Research Banner Light](https://github.com/ACM-Research/paperImplementations/assets/108421238/467a89e3-72db-41d7-9a25-51d2c589bfd9)
 
-# Summer 2025 Paper Implementations
+# Paper Implementation 1: Long Ties and Noisy Threshold Contagions in Synthetic Social Networks
 
 ## Requirements
 
