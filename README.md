@@ -16,5 +16,45 @@ In ASVD (Activation-aware SVD), an optimization algorithm is applied to minimize
 
 **Results Summary.** SVD-LLM outperforms normal SVD, FWSVD, and ASVD for all compression ratios, with greater performance increases shown for higher compression ratios. SVD-LLM is also more stable across various LLM’s, avoids out of memory errors for large models, and achieves a lower perplexity for all compression ratios when combined with LoRA fine-tuning compared to ASVD + LoRA.
 
+# Paper 2: Dynamic Compressing Prompts for Efficient Inference of Large Language Models
+
+## Overview.
+Dynamic Compressing Prompts (LLM-DCP) is a task-agnostic technique that preserves the meaning of prompts by using a Markov Decision Process (MDP) for compression. Redundancy is reduced iteratively, and tokens are sequentially removed. Hierarchical Prompt Compression (HPC) is proposed to slowly increase the compression difficulty while training a DCP-Agent.
+
+## Motivation.
+### White-box Prompt Compression
+* Works at the token embedding level, changing a model’s parameters, structure, and transformer self-attention mechanism
+
+### Black-Box Prompt Compression
+#### Strengths
+* Circumvents the need for source code access by working at the natural language level
+#### Weaknesses
+* Usually fine-tined for a specific task (like solving math problems), which makes it hard to use the same model for other tasks
+* Overlook the sequential nature of prompts
+* Rely on black-box LLMs for training, making them costly and impractical
+
+## Novelty.
+LLM-DPC uses a reward function to train the DCP-Agent which doesn’t need access to the LLM source code or a black-box LLM. HPC gradually increases compression difficulty to balance efficiency with information preservation. LLM-DPC follows a Markov Decision Process to mitigate losses in LLM performance.
+
+## Advantages/Disadvantages.
+### Advantages
+* No need for a black-box LLM or LLM source code to train the DCP-Agent
+* Uses a pre-trained small language model (SLM) since training is at token-level
+* Replay buffer used to store trajectories and support multiple updates per episode.
+
+### Disadvantages
+* Reward system is prone to fluctuation during training
+* Semantic compression not captured
+* Compression policy is dataset/prompt-dependent (may not transfer well to other datasets)
+
+## Implementation.
+Implement Algorithm 1 from the LLM-DCP paper.
+![Algorithm 1](llm-dcp-algorithm.png)
+
+### Key Ideas
+* Compression difficulty increases over time
+* Critic aids the agent in learning by calculating advantage
+* Weighted advantage by weight to improve training quality
+
 # Downloading Depencies
 Run pip install -r requirements.txt to install necessary libraries.

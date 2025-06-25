@@ -6,3 +6,4 @@ sentencepiece
 llama-stack
 protobuf
 hf_xet
+matplotlib
