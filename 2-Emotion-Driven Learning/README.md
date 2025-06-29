@@ -10,74 +10,68 @@ Copy
 Edit
 pip install -r requirements.txt
 ## Project Summary
-This repository contains a Python-based simulation that extends classical Evolutionary Game Theory (EGT) and Agent-Based Modeling (ABM) by incorporating cognitive and emotional mechanisms within agents who adapt their strategies via reinforcement learning. The simulation explores how internal states like trust, guilt, and memory influence the emergence and stability of prosocial behaviors in complex social networks.
+This repository contains a Python-based simulation inspired by the paper "Understanding Emergent Behaviours in Multi-Agent Systems with Evolutionary Game Theory" by Han et al. The project extends their concepts of cognitive, emotional, and strategic behavior in multi-agent systems by focusing on how beliefs or ideologies spread through social influence, network pressure, and agent-level resistance.
 
-Additionally, the project integrates machine learning techniques—including random forest classifiers and time series forecasting—to analyze, predict, and explain the dynamics of strategy adoption and cooperation over time.
+Rather than relying on traditional payoff-driven game theory, this implementation explores belief alignment and ideological polarization through a network of agents who adjust their stance based on neighbor influence, internal stubbornness, and external propagandistic forces.
 
 ## Motivation
-Traditional evolutionary game models often assume that agents update strategies purely based on payoffs and simple imitation. However, real-world social behavior is influenced by cognitive biases and emotional factors, which affect decision-making and learning. This implementation bridges that gap by embedding emotion-aware learning agents within evolutionary games, providing richer insight into the mechanisms driving cooperation and conflict in multi-agent systems.
+Throughout history, societal transformations—such as rebellions, colonial resistance, and political radicalization—have been driven not just by material payoff, but by shifts in belief and identity. This simulation aims to capture the emergent dynamics of belief spread in populations, using computational models to explore when societies tip toward cooperation, assimilation, or revolt.
 
 Using AI/ML tools to analyze simulation data allows for predictive modeling and deeper understanding of emergent behavioral patterns, moving from purely descriptive to explanatory and forecast-capable frameworks.
 
 Key Concepts and Contributions
-Emotion-Driven Reinforcement Learning: Agents adapt strategies not only based on payoffs but also emotional states (e.g., guilt reduces exploitative actions), shaping decision policies.
+Belief Score Dynamics:
+Each agent holds a belief value ranging from -1 (full resistance) to +1 (full assimilation), which evolves based on peer influence and internal resistance (stubbornness).
 
-Heterogeneous Agent Memory: Agents maintain histories of interactions, influencing future choices and emotional states.
+Influence-Based Updating:
+Agents average the beliefs of their neighbors and adjust their stance, modulated by their stubbornness and any external ideological pressure (e.g. state propaganda or rebel messaging).
 
-Network Effects on Emergence: Experiments conducted on various network topologies (lattice, scale-free, random graphs) reveal how structure impacts cooperation.
+Network Topology Effects:
+Belief propagation is analyzed over various network structures (random, small-world, scale-free) to examine how social connectivity impacts ideological convergence or division.
 
-AI/ML Integration: Random forest models predict agent strategy changes based on internal and external states, while forecasting algorithms model global cooperation trends and detect early warning signals.
-
-Behavioral Pattern Discovery: Clustering and dimensionality reduction techniques expose latent strategy groups and phase transitions in the multi-agent system.
+Emergent Behavior Tracking:
+Plots and statistics track how collective belief shifts over time, highlighting phenomena such as tipping points, echo chambers, and belief polarization.
 
 ## Implementation Overview
 The repository includes:
 
-An ABM framework (e.g., Mesa) implementing agents with internal cognitive and emotional states.
+A minimal agent class with belief values, stubbornness, and influence dynamics
 
-Reinforcement learning algorithms (Q-learning or policy gradients) with emotion-weighted reward functions.
+A network-based simulation using networkx
 
-Functions for generating social networks and initializing heterogeneous agent populations.
+Optional influencer nodes simulating propaganda or charismatic leaders
 
-Modules for collecting and preprocessing simulation data for ML analysis.
+Visualizations of belief spread and polarization over time
 
-Scripts applying Random Forest classification to predict strategy updates.
-
-Time series forecasting tools (e.g., ARIMA, LSTM) for global cooperation trend prediction.
-
-Visualization tools for emergent behaviors, feature importances, and forecast accuracy.
+ML-ready data structures for later prediction or forecasting (e.g., which agents radicalize)
 
 ## Dataset
-The simulations generate synthetic time-series and networked agent data. For real-world application, behavioral indices (e.g., social trust, inequality), economic indicators, or historical data can parameterize agent traits and inform initial conditions.
+The current simulation uses synthetic networks and randomized parameters. Historical or real-world datasets (e.g., population ideology surveys, colonial event timelines, or protest data) could be incorporated to ground the model in empirical evidence.
 
 Usage
-Configure agent parameters (emotional sensitivity, memory length), network type, and game payoff matrix.
+Initialize a network of agents with random beliefs and resistance levels.
 
-Run evolutionary game simulations with learning-enabled agents over multiple iterations.
+Simulate multiple time steps of peer-to-peer belief updating.
 
-Extract and preprocess agent-level and system-level data.
+Inject external influences to simulate top-down control or grassroots resistance.
 
-Train Random Forest models to predict agent behavior switches.
-
-Apply forecasting algorithms to cooperation metrics for trend analysis.
-
-Visualize emergent cooperation patterns, behavioral clusters, and predictive insights.
+Visualize collective belief dynamics over time.
 
 ## Example Analyses
-Cooperation rate evolution across different network structures.
+Belief polarization across network types
 
-Impact of emotional reward modifiers on strategy stability.
+Effect of stubbornness on consensus formation
 
-Feature importance ranking for predictors of agent strategy shifts.
+Emergence of ideological clusters
 
-Forecasted vs actual cooperation trajectories and early rebellion detection.
+Role of influencers in tipping population alignment
 
-Behavioral cluster maps and transition dynamics.
+Forecasting belief shift tipping points with ML models
 
 ## Citation
 **This repository is a paper implementation inspired by:**
 
-Anh Tuan Han et al. (2022), “Understanding Emergent Behaviours in Multi-Agent Systems with Evolutionary Game Theory,”
+Anh Tuan Han et al. (2022), “*Understanding Emergent Behaviours in Multi-Agent Systems with Evolutionary Game Theory,*”
 [arXiv:2205.07369](https://arxiv.org/pdf/2205.07369)
 
 Related foundational works on evolutionary game theory, reinforcement learning, and agent-based modeling in social systems.
