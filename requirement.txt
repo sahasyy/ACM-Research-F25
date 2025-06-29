@@ -1,0 +1,6 @@
+torch==2.0.1
+torchtext==0.15.2
+torchdata
+portalocker>=2.0.0
+matplotlib
+seaborn
