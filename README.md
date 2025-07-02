@@ -31,10 +31,7 @@ This notebook:
 
 - **Shannon Entropy**  
   Used to measure portfolio diversity:
-  \[
-  H(w) = -\sum_i w_i \log(w_i)
-  \]
-  where \( w_i \) are the portfolio weights.
+
 
 - **Maximum Entropy Principle**  
   Selects the most diversified portfolio consistent with known constraints (in this case, only the expected returns).
