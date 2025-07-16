@@ -56,5 +56,53 @@ Implement Algorithm 1 from the LLM-DCP paper.
 * Critic aids the agent in learning by calculating advantage
 * Weighted advantage by weight to improve training quality
 
+# Paper 3: LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression
+## Overview.
+LLMLingua-2 is a task-agnostic prompt compression method that uses a transformer architecture to predict the likelihood each word in the original prompt will be preserved in the compressed one, then chooses the words with the highest probability. LLMLingua-2 outperforms existing compression methods like Selective-Context and LLMLingua, both with in-of-domain and out-of-domain prompts and across various target LLM’s, by utilizing bidirectional context when selecting tokens to preserve.
+
+## Motivation.
+Casual LLM’s are unidirectional, and only capture partial context. LLMLingua-2 leverages bidirectional context for more effective prompt compression.
+### Abstractive Prompt Compression
+* Rephrase original prompts into compressed ones using an autoregressive process
+* Slow and prone to hallucinations
+### Extractive Prompt Compression
+* Geared towards summarization and not as detailed as abstractive prompt compression
+
+LLMLingua-2 aims to create an extractive prompt compression technique that keeps core information, avoiding slow-downs and hallucinations seen in abstractive methods.
+
+## Novelty.
+LLMLingua-2 treats compression like a binary classification task, marking individual tokens as preserve or discard. The compression metric is the predicted probability of each token being preserved. A transformer encoder is used for feature extraction, allowing LLMLingua-2 to take advantage of bidirectional context. The extractive approach ensures an accurate representation of the prompt, compared to an abstractive one. LLMLingua-2 is 3-6x as fast as existing methods and can improve overall latency by 1.6-2.9x using compression ratios 2-5x as large.
+
+## Advantages/Disadvantages.
+### Advantages
+* Take agnosticism allows for general use of LLMLingua-2
+* Outperforms Selective-Context, LLMLingua, and LLMLingua-2-small for QA (question and answer) and summarization tasks using the LLM Mistral-7B, coming closer to matching the original prompt’s performance. LLMLingua-2 also has 1.6-2.9x lower latency and reduced GPU memory costs by up to a factor of 8
+* Maintains the most informative words as compression ratio increases due to bidirectional context-aware feature extraction
+
+### Disadvantages
+* LLMLingua-2 still falls short of task-aware methods, such as LongLLMlingua
+* Compression dataset was derived from MeetingBank, which consists of meeting transcripts, and may limit generalizability
+* For out-of-domain prompts, LongBench and ZeroSCROLLS, although LLMLingua-2 does well (having the highest average exact match ratio for ZeroSCROLLS and only getting beaten by LLMLingua’s average on LongBench), there is still a steep loss in exact match results compared to the in-domain task (for instance, LLMLingua-2 has 76.22% and 30.18% exact match over MeetingBank for QA and summarization respectively, but only 25-26% for summarization over LongBench while QA wasn’t compared).
+
+Ultimately, LLMLingua-2 outperforms other task-agnostic tools, even with datasets it wasn’t trained on, and even after expanding the training dataset, the authors observed limited performance improvement. This suggests that patterns of language are similar across datasets, and that LLMLingua-2 can learn these patterns in its training domain then transfer them, making the case for task-agnostic compression techniques. Additionally, its lower BERTScores for summarization tasks highlights the challenge of task-agnostic analysis and summarization, compared to QA, where we can observe higher exact match ratio.
+
+## Methodology.
+### Dataset
+GPT-4 is used to compress prompts, focusing on token reduction (fewer tokens than the original), informativeness (retaining essential information), and faithfulness (avoid hallucinations). GPT-4 is prompted to compress the text as short as possible and keep as much information as possible. To ensure effectiveness for various prompt lengths and styles, no compression ratio is specified.
+
+GPT-4 compresses long prompts at a much higher compression ratio, so the authors split the longer prompt into chunks no longer than 512 tokens and terminating with a period, which were then individually compressed.
+
+Note that LLMLingua-2 uses exact match from HuggingFace as an evaluation metric for QA, which “Returns the rate at which the input predicted strings exactly match their references, ignoring any strings input as part of the regexes_to_ignore list” (HuggingFace, https://huggingface.co/spaces/evaluate-metric/exact_match). A higher rate is better. For the summarization task, BERTScore from HuggingFace is used, which “computes a similarity score for each token in the candidate sentence with each token in the reference sentence” (HuggingFace, https://huggingface.co/spaces/evaluate-metric/bertscore). A higher score is better.
+
+### Quality Control
+**Variation Rate** measures the proportion of words in the compressed prompt that aren’t in the original. More variation corresponds with a higher likelihood of hallucinations, so the prompts with the highest 5% of variation rates are excluded from the dataset.
+
+**Alignment Gap** measures the quality of the automatically annotated labels. It’s the difference between the hitting rate and the matching rate, where the hitting rate is the proportion of words in the compressed prompt that appear in the original, and the matching rate is the proportion of words in the original prompt that correspond to a word in the compressed.
+
+### Compression
+To compress a prompt, LLMLingua-2 finds the target number of tokens for the compressed prompt, computed by N’ = TN, where N is the number of words in the original prompt, and T is the quotient of words in the compressed prompt and words in the original. The transformer classification model then predicts the probability of each word, xi, to be preserved. Lastly, the top N’ words with the highest probability of being preserved are chosen, maintaining their original order.
+
+
+
 # Downloading Depencies
 Run pip install -r requirements.txt to install necessary libraries.
