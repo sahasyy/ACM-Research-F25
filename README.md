@@ -1,46 +1,30 @@
-# Maximum Entropy Portfolio Optimization
+# CVaR-Optimized Portfolio with Simulated Returns
 
-This Jupyter Notebook implements a simplified version of the **Maximum Entropy Approach to Portfolio Optimization**, based on the research paper:
-
-"Maximum Entropy Approach to Portfolio Optimization: Economic Justification of an Intuitive Diversity Idea"  
-by Laxman Bokati & Vladik Kreinovich (2019)
-
----
+This Jupyter Notebook implements a simple Conditional Value-at-Risk (CVaR) portfolio optimization using only NumPy and matplotlib, without relying on external optimization libraries like `cvxpy`.
 
 ## Objective
 
-In classical finance, Markowitz-style portfolio optimization depends on accurate estimates of both mean returns and covariances. However, in many real-world situations, investors only have access to expected returns — not covariances or volatility estimates. This creates a challenge: how can a rational, diversified portfolio be constructed with limited statistical information?
+To find the optimal portfolio weights across a set of simulated assets that minimizes CVaR at a 95% confidence level. This provides a practical example of risk-aware asset allocation using simulated return distributions.
 
-This research uses Shannon entropy from information theory as a diversification metric and proposes maximizing entropy as a logical method for portfolio construction under uncertainty. The maximum entropy portfolio corresponds to the most unbiased weight distribution given only partial knowledge.
+## Methodology
 
----
+### 1. Data Simulation
 
-## What This Notebook Demonstrates
+- Simulate daily returns for 4 assets over 252 trading days (1 year).
+- The asset returns are generated using a multivariate normal distribution with a specified mean vector and covariance matrix.
 
-This notebook:
+### 2. CVaR Computation
 
-1. Simulates a set of assets with known expected returns but unknown covariances.
-2. Computes the maximum entropy portfolio, which is a uniform allocation across all assets.
-3. Generates random portfolios using Dirichlet distributions to simulate alternative allocations.
-4. Calculates the entropy and expected return of each random portfolio.
-5. Visualizes the tradeoff between entropy and expected return, demonstrating the diversification benefit of entropy maximization.
+- CVaR (Conditional Value-at-Risk) at confidence level alpha is the expected portfolio loss assuming the loss exceeds the Value-at-Risk (VaR) at that level.
 
----
+### 3. Optimization via Random Sampling
 
-## Technical Concepts
+- A brute-force method is used to approximate the optimal portfolio weights.
+- Random weight vectors that sum to 1 are generated using the Dirichlet distribution.
+- For each weight vector, the portfolio CVaR is computed.
+- The weight vector that yields the minimum CVaR is recorded as the optimal allocation.
 
-- **Shannon Entropy**  
-  Used to measure portfolio diversity:
+### 4. Visualization
 
-
-- **Maximum Entropy Principle**  
-  Selects the most diversified portfolio consistent with known constraints (in this case, only the expected returns).
-
-- **Dirichlet Sampling**  
-  Generates thousands of valid portfolios whose weights sum to 1 and are non-negative.
-
-- **Expected Return**  
-  Calculated using the dot product of portfolio weights and the expected return vector.
-
----
-
+- A histogram of the optimized portfolio's return distribution is plotted.
+- The Value-at-Risk (VaR) threshold is marked to illustrate where CVaR begins.
