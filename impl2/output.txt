@@ -1,0 +1,40 @@
+Using device: cpu
+Loading model from: ./llada-8b-code-completion-finetuned
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+/home/axa230262/work/envs/diff/lib/python3.11/site-packages/huggingface_hub/file_download.py:943: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Loading checkpoint shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:01<00:00,  3.32it/s]
+--- Model and Tokenizer Loaded ---
+--------------------------------------------------
+Generating completion for: PyTorch forward pass
+
+import torch
+import torch.nn as nn
+
+class SimpleNet(nn.Module):
+    def __init__(self):
+        super(SimpleNet, self).__init__()
+        self.fc1 = nn.Linear(784, 128)
+        self.relu = nn.ReLU()
+        self.fc2 = nn.Linear(128, 10)
+
+    def forward(self, x):
+
+
+--- LLaDA Completion ---
+        x = self.relu(self.fc1(x))
+        x = self.fc2(x)
+        return x
+
+
+--------------------------------------------------
+
+--------------------------------------------------
+Generating completion for: Fibonacci function
+def fibonacci(n):
+
+--- LLaDA Completion ---
+    a, b = 0, 1
+    return =    b
+
+--------------------------------------------------
