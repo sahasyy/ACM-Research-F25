@@ -1,5 +1,6 @@
 This is a simple implementation for converting an AR (Autoregressive model) to a Diffusion based LLM. This only outlines the first step, which is the noising/masking process. The codebase uses GPT, and a Shakespeare dataset for preliminary testing. The resultant text is then run through a noise function and shown in iteratively in the noised_output.txt. 
 
+
 ### File Descriptions
 
 * **main.py**: The main Python script to train and run the character-level GPT model.
